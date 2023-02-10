@@ -1,3 +1,2 @@
 #!/bin/bash
-script that prints the absolute path name of the current working directory
-
+Dispayss the contents list on your current directory in a long format 
